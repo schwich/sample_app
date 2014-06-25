@@ -21,6 +21,7 @@ doc/
 *.swp
 *~
 .project
+*.swo
 .DS_Store
 .idea
 .secret
